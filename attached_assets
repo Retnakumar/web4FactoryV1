@@ -1,0 +1,124 @@
+Prompt:
+
+You are a world-class web designer and developer. Create a fully static HTML/CSS website (no JS framework) for a futuristic technology company called Web4Factory — a platform that represents the next evolution of the web, integrating AI, Blockchain, and IoT into what is called Web4: The Symbiotic Web.
+
+🔹 Brand Details:
+
+Company Name: Web4Factory
+
+Website: https://web4factory.in/
+
+Tagline: “Intelligence Meets Innovation — in Every Block, Empowering the Web Beyond 3.0.”
+
+Theme: Modern, Elegant, Futuristic, Professional
+
+Design Aesthetic:
+
+Use elegant futuristic typography
+
+Colors: deep space gradients (navy blue, black, and electric violet tones)
+
+Subtle glowing effects for highlights or hover states
+
+Rounded corners, smooth hover transitions
+
+Responsive and mobile-friendly layout
+
+Include a consistent header, footer, and navigation bar across all pages
+
+🔹 Pages to Create:
+1. Home Page
+
+Hero section with a futuristic animation or gradient background
+
+Tagline prominently displayed
+
+“Explore Web4” call-to-action button
+
+3 Key pillars section (AI, Blockchain, IoT) with icons
+
+Short section: “Why Web4Factory?” with a brief paragraph
+
+2. About Page
+
+Overview of Web4 and what makes Web4Factory a pioneer
+
+Mission, Vision, and Core Values
+
+“The Future of the Symbiotic Web” section describing the Web4 ecosystem
+
+3. Services / Products Page
+
+Grid layout of services with hover effects
+
+Example services:
+
+AI-Powered Web Applications
+
+Blockchain Infrastructure & Smart Contracts
+
+IoT Integration for Smart Ecosystems
+
+Data Intelligence & Automation
+
+Include brief text under each with “Learn More” buttons
+
+4. Contact Page
+
+Simple contact form (Name, Email, Message)
+
+Embedded Google map placeholder (for HQ)
+
+Company email, phone, and social links in footer
+
+5. Blog / Portfolio / Gallery Page
+
+3-column grid of blog/portfolio cards with images
+
+Hover animations revealing short descriptions
+
+Title: “Insights & Innovations from Web4Factory”
+
+6. FAQ / Testimonials / Pricing Page
+
+Section for FAQs in accordion style (can be CSS-based)
+
+Section for 3–4 client testimonials with subtle glow effect
+
+Optional pricing tiers (Basic / Pro / Enterprise) with futuristic cards
+
+🔹 Technical Requirements:
+
+Use pure HTML5 and CSS3 (no frameworks like Bootstrap)
+
+Fully responsive using flexbox or CSS grid
+
+Use a consistent style.css file for the whole site
+
+Include SEO meta tags and Open Graph tags
+
+Add favicon placeholder and logo placeholder
+
+Semantic HTML (use <section>, <header>, <footer>, <article>, etc.)
+
+Clean, readable code with comments for each major section
+
+🔹 Output Instructions:
+
+Generate separate files for each page:
+
+index.html
+
+about.html
+
+services.html
+
+contact.html
+
+blog.html
+
+faq.html
+
+Include one shared style.css file.
+
+The tone of text and structure should be professional, futuristic, and visionary, reflecting the AI + Blockchain + IoT fusion vision of Web4Factory.
